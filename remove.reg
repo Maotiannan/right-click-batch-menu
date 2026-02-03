@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\Directory\shell\BatchCreateFolders]
+[-HKEY_CLASSES_ROOT\Directory\shell\CreateDocFolders]
+[-HKEY_CLASSES_ROOT\Directory\shell\DocFolders]
+[-HKEY_CLASSES_ROOT\Directory\shell\ImportDocFolders]
+[-HKEY_CLASSES_ROOT\Directory\shell\批量创建文件夹]
+[-HKEY_CLASSES_ROOT\Directory\shell\创建指定文件夹]
+[-HKEY_CLASSES_ROOT\Directory\shell\创建跟单文件夹]
+[-HKEY_CLASSES_ROOT\Directory\shell\鎵归噺鍒涘缓鏂囦欢澶筡command]
+[-HKEY_CLASSES_ROOT\Directory\shell\鎵归噺鍒涘缓鏂囦欢澶] 
