@@ -1,17 +1,18 @@
-﻿# 跟单文件夹批量创建工具
+# 跟单文件夹批量创建工具
 
 本工具会在资源管理器右键菜单中添加“创建跟单文件夹”命令，用于批量创建跟单业务相关的子文件夹。
 
 ## 运行环境要求
-- Windows 7/8/10/11
+- Windows 7/8/10/11（系统自带 .NET Framework 4.x，无需额外安装）
 - 安装/卸载需要管理员权限
 - 不依赖其他运行环境
 
 ## 文件说明
-- FolderCreator.exe：主程序
+- FolderCreator.exe：主程序（C# 编译，基于 .NET Framework，不依赖外部 DLL）
+- FolderCreator.cs：主程序源码
 - setup.bat：安装脚本（添加右键菜单）
 - remove.reg：卸载注册表（移除右键菜单）
-- readme.txt：原始说明文件
+- README.md：说明文档
 
 ## 安装步骤
 1. 将所有文件放到一个固定目录（建议不要放在临时目录）。
